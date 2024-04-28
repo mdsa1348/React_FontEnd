@@ -1,0 +1,29 @@
+.custom_navbar {
+    padding:20px 20px 0;
+    /* margin-bottom: 30px;  */
+    background-color: rgb(160, 160, 160) !important;
+    font-size: large;
+  }
+
+
+  
+
+  .NavLink{
+   
+    padding-bottom: 20px;
+  }
+  .NavDropdownLink:hover{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+    transition: ease-in-out;
+  }
+  .NavLink:hover{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+    transition: ease-in-out;
+    
+  }
